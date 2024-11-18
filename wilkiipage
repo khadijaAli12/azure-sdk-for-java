@@ -1,0 +1,23 @@
+## General Project Information
+
+| Characteristic              | Value                                               |
+|-----------------------------|-----------------------------------------------------|
+| Name of the Repository      | azure-sdk-for-java                                  |
+| Commit Number               | 12,345                                              |
+| Last Commit                 | Nov 18, 2024                                        |
+| License                     | MIT                                                 |
+| Branches                    | main, dev, feature-xyz                             |
+| Default Branch              | main                                                |
+| Contributor Numbers         | 635                                                  |
+| Releases                    | 9919                                                  |
+| Watchers                    | 426                                                 |
+| Stars                       | 2.4K                                                |
+| Number of Forks             | 2K                                                  |
+| Size of the Project         | 1.5GB                                               |
+| Homepage                    | https://azure.github.io/azure-sdk-for-java/) |
+| Total Issues                | 10,998                                              |
+| Open Issues                 | 788                                                 |
+| Total Pull Requests         | 31,834                                              |
+| Open Pull Requests          | 126                                                 |
+| Archived                    | No                                                  |
+| Programming Languages       | Java, PowerShell, Shell, Batchfile                 |
